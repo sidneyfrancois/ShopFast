@@ -2,7 +2,7 @@
 
 namespace ShopFast.Domain
 {
-    class Client
+    public class Client
     {
         public Client()
         {
