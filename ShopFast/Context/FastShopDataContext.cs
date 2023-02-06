@@ -11,5 +11,6 @@ namespace ShopFast.Context
 
         public DbSet<Product> Products { get; set; }
         public DbSet<Client> Clients { get; set; }
+        public DbSet<Category> Categories { get; set; }
     }
 }
